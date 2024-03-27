@@ -1,0 +1,264 @@
+,Expérience N°1
+Période,2002-2005
+Entreprise,Ecophones Services / GT2F
+Projet ,Logiciel de taxation téléphonique
+Fonction,Développeur / Responsable informatique
+Missions et Réalisations,"Développement et maintenance d'une gamme de logiciels de taxation téléphonique
+Support des logiciels"
+Environnements Technologiques,"Delphi 7
+Interbase
+API Windows (hooks)
+PABX (autocom)"
+,Expérience N°2
+Période,2005-2007
+Entreprise,INTERFACE SI - CLIENT : AIRBUS
+Projet ,Développements applications SARAA/Rise
+Fonction,Analyste programmeur
+Missions et Réalisations,Développement et maintenance
+Environnements Technologiques,"Java, applet
+Tomcat
+C / C++
+Corba
+MSDEV, Eclipse
+Oracle"
+,Expérience N°3
+Période,2008-2009
+Entreprise,SOPRA - Client Alcatel
+Projet ,Intégration du progiciel Axioss
+Fonction,Ingénieur d’études et développements
+Missions et Réalisations,"Intégration du progiciel Axioss (gestion de workflows pour le provisioning des équimements télécoms)
+Réalisation de spécifications, chiffrages, études, conceptions, développements, testing, livraisons, installations, etc.
+"
+Environnements Technologiques,"Weblogic
+Java / JEE
+PL/SQL
+Solaris"
+,Expérience N°4
+Période,2010-2013
+Entreprise,SOPRA - Client Airbus
+Projet ,Moteurs de recherche des portails
+Fonction,Ingénieur d’études et développements
+Missions et Réalisations,"Mise en place et maintenance des moteurs de recherche sur les 3 portails d'Airbus : Airbus World (institutionnel), Airbus Supply (fournisseurs), Airbus People (intranet)
+Utilisation du moteur de recherche Vivisimo Velocity, renom
+Intégration du progiciel Velocity
+Réalisation de chiffrages, proof of concept, pilotage de développements, support (RUN), expertise techniquemé IBM Watson Explorer"
+Environnements Technologiques,"SI Airbus
+Moteur de recherche Vivisimo Velocity
+XML, XSL, JAVA, .NET
+HTML, CSS, Javascript, IIS"
+,Expérience N°5
+Période,2014-aujourd’hui
+Entreprise,Berger Levrault
+Projet ,Espace Client
+Fonction,Responsable technique
+Missions et Réalisations,"Architecture et conseil
+Audit du code en vue d'une refonte progressive des fondements techniques
+Pilotage des développements PHP"
+Environnements Technologiques,"PHP, Laravel
+Mysql
+Jquery
+VueJs"
+,Expérience N°6
+Période,2014-2015
+Entreprise,"BCEAO, GPMM, GIE AGORA"
+Projet ,Expertise JEE
+Fonction,"Expert Java, Jboss, Tomcat"
+Missions et Réalisations,"Étude de choix de version de JBoss / Wildfly
+Audit technique et optimisation des performances d'une installation Wildfly
+Formation Tomcat avancée
+Étude comparative OpenJDK / Oracle JDK 6 7 8"
+Environnements Technologiques,"Wildfly 8 et 9
+Tomcat 6 et 7
+Open JDK 6 7 8"
+,Expérience N°7
+Période,2015
+Entreprise,DGFIP
+Projet ,Etude migration oracle jdk 7 vers open jdk 8
+Fonction,Expert web / Développeur Java/JEE
+Missions et Réalisations,"Dans le cadre de cette mission, AVI est intervenu sur des prestations d'expertise JEE
+Support transverse JEE au sein de la cellule d'architecture
+Etude de migration vers Open JDK8
+Déploiement d'applications élues pour l'étude de migration
+Conception de scénarios de test JMeter
+Production de documents (préconisation, chemins de migrations, analyse de performances) pour la migration Open JDK8
+Analyse d'incidents de productions
+Analyse et correction (via patch mojo maven) de problèmes d'assemblage maven"
+Environnements Technologiques,"Tomcat
+JaxWS / JaxRS
+Maven
+JMeter
+CentOS"
+,Expérience N°8
+Période,2014-2015
+Entreprise,"BCEAO, GPMM, GIE AGORA"
+Projet ,Expertise JEE
+Fonction,"Expert Java, Jboss, Tomcat"
+Missions et Réalisations,"Étude de choix de version de JBoss / Wildfly
+Audit technique et optimisation des performances d'une installation Wildfly
+Formation Tomcat avancée
+Étude comparative OpenJDK / Oracle JDK 6 7 8"
+Environnements Technologiques,"Wildfly 8 et 9
+Tomcat 6 et 7
+Open JDK 6 7 et 8"
+,Expérience N°9
+Période,2016
+Entreprise,"CD31, DGAC, SIPF"
+Projet ,"Formations PHP / Symfony, PostgreSQL, Jboss 7, Java 8"
+Fonction,Formateur
+Missions et Réalisations,"Jboss 7
+Symfony 3
+Php 5
+PostgreSQL 9"
+Environnements Technologiques,"SI Airbus
+Moteur de recherche Vivisimo Velocity
+XML, XSL, JAVA, .NET
+HTML, CSS, Javascript, IIS"
+,Expérience N°10
+Période,2016
+Entreprise,Bordeaux Métropole
+Projet ,Intégration progiciel Alfresco
+Fonction,Développeur Alfresco
+Missions et Réalisations,"Présentation du produit et ateliers métier
+Développement de types de données spécifiques au client
+Développement script d’import via API Alfresco"
+Environnements Technologiques,"Alfresco 5.0
+Java"
+,Expérience N°11
+Période,2016
+Entreprise,"CD31, DGAC, SIPF"
+Projet ,"Formations PHP / Symfony, PostgreSQL, Jboss 7, Java 8"
+Fonction,Formateur
+Missions et Réalisations,"JBoss 7
+Symfony 3
+Php 5
+PostgreSQL 9"
+Environnements Technologiques,"SI Airbus
+Moteur de recherche Vivisimo Velocity
+XML, XSL, JAVA, .NET
+HTML, CSS, Javascript, IIS"
+,Expérience N°12
+Période,2017
+Entreprise,Confidentiel
+Projet ,Refonte logiciel frontend en Angular
+Fonction,Ingénieur d’études et développements
+Missions et Réalisations,"Refonte de la partie frontend en Angular
+Référent technique et encadrant"
+Environnements Technologiques,"Angular 4
+yarn
+Vim"
+,Expérience N°13
+Période,2017
+Entreprise,Météofrance
+Projet ,Développement logiciel Protea
+Fonction,Ingénieur d’études et développements
+Missions et Réalisations,"Extension d’une application interne Protea pour le transcodage de nouveaux messages   météo (SIGMET / AIRMET)
+Tests unitaires et fonctionnels poussés à l’aide de Junit, xmlunit : aucun test avant la prestation (donc appropriation de l’existant et amélioration de la qualité)"
+Environnements Technologiques,"Junit
+Eclipse
+Java 8
+Sonarqube"
+,Expérience N°14
+Période,2018
+Entreprise,LA BANQUE POSTALE
+Projet ,Expertise Angular / Développements framework
+Fonction,Architecte logiciel / Ingénieur études et développements
+Missions et Réalisations,"Etudes techniques et stratégiques sur l’utilisation d’Angular et son cycle de vie
+Support et réalisations techniques / contributions sur les frameworks internes LBP
+Référent technique et encadrant"
+Environnements Technologiques,Angular 5
+,Expérience N°15
+Période,2018 - 2019
+Entreprise,Météofrance
+Projet ,Refonte logiciel GMAO
+Fonction,Architecte logiciel / Ingénieur études et développements
+Missions et Réalisations,"Refonte d’une application de requêtes sur un outil de GMAO Virga 3
+Réalisation de l’architecture logicielle et du moteur de requêtes
+Développement partie backend PHP
+Contributions sur le frontend Angular développé principalement par un autre collègue
+Référent technique et encadrant"
+Environnements Technologiques,"PHP 7.1
+Zend Framework 3
+Angular 6
+vim"
+,Expérience N°16
+Période,2019
+Entreprise,EDF
+Projet ,Mise en conformité légale application d’identités
+Fonction,Responsable technique
+Missions et Réalisations,"Audit de l’application
+Coordination des mesures techniques effectuées sur le code source"
+Environnements Technologiques,"java 7
+docker
+vagrant"
+,Expérience N°17
+Période,2019
+Entreprise,Caisse Nationale d’Assurances Maladie
+Projet ,Veille technologique sur outils d’APM
+Fonction,Expertise produits
+Missions et Réalisations,"Veille standard QSOS
+POC sur environnements CNAM"
+Environnements Technologiques,"apm,dashboard,timeseries"
+,Expérience N°18
+Période,2019
+Entreprise,DGFIP
+Projet ,Migration Hibernate vers JPA
+Fonction,Expertise Java
+Missions et Réalisations,"Etude théorique
+Migration concrète d’une application existante
+Tests de performances pour mesurer les différences"
+Environnements Technologiques,"Java
+Hibernate/JPA"
+,Expérience N°19
+Période,2019
+Entreprise,Airbus
+Projet ,Airbus Export Control
+Fonction,Expert technique
+Missions et Réalisations,"Outil d’aide à la décision en Python 3
+Analyse code source pour déterminer présence de cryptographie"
+Environnements Technologiques,python
+,Expérience N°20
+Période,Fin 2019 - début 2020
+Entreprise,EDF
+Projet ,TOSIAM
+Fonction,Responsable technique
+Missions et Réalisations,Actions légales sur code source (mesures conservatoires) pour supprimer parties propriétaires
+Environnements Technologiques,"Java
+LDAP
+nodejs
+python
+VM
+docker"
+,Expérience N°21
+Période,2020
+Entreprise,Agence de l’Eau Artois Picardie
+Projet ,Sycloe
+Fonction,Responsable technique et développeur
+Missions et Réalisations,Refonte module d’import de données au format XML (norme SANDRE)
+Environnements Technologiques,"Java (Spring boot, Jaxb)
+XML, XSLT"
+,Expérience N°22
+Période,2021 - 2022
+Entreprise,DGFIP
+Projet ,Migration MoDR (Solr)
+Fonction,Expertise Java et produit Solr
+Missions et Réalisations,"Etude théorique et pratique
+Evaluation de l’effort de migration
+Migration applications DGFiP et Solr/Nutch"
+Environnements Technologiques,"Solr, docker, centos, java, bash"
+,Expérience N°23
+Période,2021
+Entreprise,Parcoursup
+Projet ,Etude faisabilité et assistance technique sur Sonarqube
+Fonction,Expertise Sonarqube
+Missions et Réalisations,"Etude faisabilité technique de besoins spécifiques Sonarqube
+Développement de POC de plugins
+Transfert de compétences"
+Environnements Technologiques,"Sonarqube
+Java"
+,Expérience N°24
+Période,2023
+Entreprise,"ANAH, CIG"
+Projet ,Maintenance architecture identités
+Fonction,Architecte IAM
+Missions et Réalisations,"Evolution/maintenance architecture, intégration DM LinID"
+Environnements Technologiques,"centos, debian, ansible, LemonLDAP, openLDAP"

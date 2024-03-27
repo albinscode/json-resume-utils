@@ -1,0 +1,669 @@
+{
+  "basics": {
+    "name": "Albin Vigier",
+    "label": "Architecte et expert web",
+    "image": "",
+    "email": "avigier@linagora.com",
+    "phone": "",
+    "url": "",
+    "summary": "AVI est un passionné d'informatique depuis 20 ans. Il a débuté sa carrière dans le domaine de l'édition logiciels de gestion dans le secteur des télécoms. Il a ensuite suivi un parcours de développeur web et d'intégrateur de progiciels (portails, moteurs de recherche, etc...) pour des clients tels qu'Airbus ou Alcatel.\n A LINAGORA, AVI effectue des missions très différentes et motivantes telles que la formation, l'expertise Java (serveurs applicatifs notamment), le développement web (java, php, angular) ou l'intégration de progiciels. Ces missions au contact direct avec le client l'amènent souvent à se déplacer au national ou à l'international lui procurant ainsi une expérience unique.",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "username": "albin-vigier-b2009763"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Linagora",
+      "position": "Architecte et expert web (Java / Php / Angular / VueJs)",
+      "startDate": "2014-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "A Linagora, j'ai la chance de pouvoir cumuler différentes missions et postes.\n\nA la fois développeur expérimenté et architecte sur socle Java (Tomcat), Php (Symfony/Laravel) et Angular ou VueJs.\n\nJe suis principalement sur des projets de refonte de projets web impliquant le re-développement de l'IHM (en Single Page Application) et un re-design du backend pour desservir une API REST.\n\nJ'ai également une activité d'expertise et d'étude sur des migrations techniques ou encore sur l'amélioration des process de développements via l'utilisation d'outils open source de CI/CD.",
+      "url": "https://www.linkedin.com/company/linagora/"
+    },
+    {
+      "name": "Sopra",
+      "position": "Ingénieur d'étude et développement Java/Tomcat",
+      "startDate": "2013-10-31",
+      "endDate": "2014-09-30",
+      "highlights": [],
+      "summary": "TMA sur produit Ficheyes",
+      "url": "https://www.linkedin.com/company/soprasteria/"
+    },
+    {
+      "name": "Sopra",
+      "position": "Responsable technique Search",
+      "startDate": "2010-06-30",
+      "endDate": "2013-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/soprasteria/",
+      "location": "Colomiers"
+    },
+    {
+      "name": "Sopra Group",
+      "position": "Ingénieur d'étude et développement BSS/OSS",
+      "startDate": "2008-10-31",
+      "endDate": "2010-06-30",
+      "highlights": [],
+      "summary": "Intégration du progiciel Axioss pour le provisioning des équipements Telecom.",
+      "url": "https://www.linkedin.com/company/soprasteria/",
+      "location": "Colomiers"
+    },
+    {
+      "name": "Sopra Group",
+      "position": "Ingénieur d'étude et développement Java/Tomcat",
+      "startDate": "2007-08-31",
+      "endDate": "2008-09-30",
+      "highlights": [],
+      "summary": "TMA sur produit Ficheyes",
+      "url": "https://www.linkedin.com/company/soprasteria/",
+      "location": "colomiers"
+    },
+    {
+      "name": "interface si",
+      "position": "Analyste programmeur Java/Tomcat/C/C++/Corba",
+      "startDate": "2005-09-30",
+      "endDate": "2007-07-31",
+      "highlights": [],
+      "summary": "TMA sur applications de gestion Saraa/Rise.",
+      "url": "",
+      "location": "Toulouse"
+    },
+    {
+      "name": "Projet personnel",
+      "position": "Porteur de projet pour la création d’une entreprise de développements web",
+      "startDate": "2005-03-31",
+      "endDate": "2005-07-31",
+      "highlights": [],
+      "url": "",
+      "location": "Montpellier"
+    },
+    {
+      "name": "GT2F",
+      "position": "Analyste programmeur Java/Delphi",
+      "startDate": "2002-04-30",
+      "endDate": "2005-02-28",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/gt2f/",
+      "location": "Nimes"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Conservatoire National des Arts et Métiers",
+      "area": "Ingénierie et intégration informatique : systèmes de conduite",
+      "studyType": "Diplôme d'Etudes SupérieuresTechniques",
+      "startDate": "2002-12-31",
+      "endDate": "2003-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT de Montpellier-Sète",
+      "area": "Conception et ingénierie informatique",
+      "studyType": "Diplôme Universitaire",
+      "startDate": "2001-12-31",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT de Montpellier-Sète",
+      "area": "Informatique",
+      "studyType": "Diplôme universitaire de technologie (DUT)",
+      "startDate": "1999-12-31",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tomcat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LemonLDAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nutch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solr",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zend",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Spring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maven",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement de logiciel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sopra Steria",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vuejs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Postgresql",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Keycloak",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "en",
+      "fluency": "technical"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "startDate": "2002",
+      "endDate": "2005",
+      "name": "Ecophones Services / GT2F",
+      "summary": "Logiciel de taxation téléphonique\nDéveloppement et maintenance d'une gamme de logiciels de taxation téléphonique\nSupport des logiciels",
+      "roles": [
+        "Développeur / Responsable informatique"
+      ],
+      "keywords": [
+        "Delphi 7",
+        "Interbase",
+        "API Windows (hooks)",
+        "PABX (autocom)"
+      ]
+    },
+    {
+      "startDate": "2005",
+      "endDate": "2007",
+      "name": "INTERFACE SI - CLIENT : AIRBUS",
+      "summary": "Développements applications SARAA/Rise\nDéveloppement et maintenance",
+      "roles": [
+        "Analyste programmeur"
+      ],
+      "keywords": [
+        "Java",
+        "applet",
+        "Tomcat",
+        "C / C++",
+        "Corba",
+        "MSDEV",
+        "Eclipse",
+        "Oracle"
+      ]
+    },
+    {
+      "startDate": "2008",
+      "endDate": "2009",
+      "name": "SOPRA - Client Alcatel",
+      "summary": "Intégration du progiciel Axioss\nIntégration du progiciel Axioss (gestion de workflows pour le provisioning des équimements télécoms)\nRéalisation de spécifications, chiffrages, études, conceptions, développements, testing, livraisons, installations, etc.",
+      "roles": [
+        "Ingénieur d’études et développements"
+      ],
+      "keywords": [
+        "Weblogic",
+        "Java / JEE",
+        "PL/SQL",
+        "Solaris"
+      ]
+    },
+    {
+      "startDate": "2010",
+      "endDate": "2013",
+      "name": "SOPRA - Client Airbus",
+      "summary": "Moteurs de recherche des portails\nMise en place et maintenance des moteurs de recherche sur les 3 portails d'Airbus : Airbus World (institutionnel), Airbus Supply (fournisseurs), Airbus People (intranet)\nUtilisation du moteur de recherche Vivisimo Velocity, renom\nIntégration du progiciel Velocity\nRéalisation de chiffrages, proof of concept, pilotage de développements, support (RUN), expertise techniquemé IBM Watson Explorer",
+      "roles": [
+        "Ingénieur d’études et développements"
+      ],
+      "keywords": [
+        "SI Airbus",
+        "Moteur de recherche Vivisimo Velocity",
+        "XML",
+        "XSL",
+        "JAVA",
+        ".NET",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "IIS"
+      ]
+    },
+    {
+      "startDate": "2014",
+      "endDate": "aujourd’hui",
+      "name": "Berger Levrault",
+      "summary": "Espace Client\nArchitecture et conseil\nAudit du code en vue d'une refonte progressive des fondements techniques\nPilotage des développements PHP",
+      "roles": [
+        "Responsable technique"
+      ],
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "Mysql",
+        "Jquery",
+        "VueJs"
+      ]
+    },
+    {
+      "startDate": "2014",
+      "endDate": "2015",
+      "name": "BCEAO, GPMM, GIE AGORA",
+      "summary": "Expertise JEE\nÉtude de choix de version de JBoss / Wildfly\nAudit technique et optimisation des performances d'une installation Wildfly\nFormation Tomcat avancée\nÉtude comparative OpenJDK / Oracle JDK 6 7 8",
+      "roles": [
+        "Expert Java",
+        "Jboss",
+        "Tomcat"
+      ],
+      "keywords": [
+        "Wildfly 8 et 9",
+        "Tomcat 6 et 7",
+        "Open JDK 6 7 8"
+      ]
+    },
+    {
+      "startDate": "2015",
+      "endDate": "2015",
+      "name": "DGFIP",
+      "summary": "Etude migration oracle jdk 7 vers open jdk 8\nDans le cadre de cette mission, AVI est intervenu sur des prestations d'expertise JEE\nSupport transverse JEE au sein de la cellule d'architecture\nEtude de migration vers Open JDK8\nDéploiement d'applications élues pour l'étude de migration\nConception de scénarios de test JMeter\nProduction de documents (préconisation, chemins de migrations, analyse de performances) pour la migration Open JDK8\nAnalyse d'incidents de productions\nAnalyse et correction (via patch mojo maven) de problèmes d'assemblage maven",
+      "roles": [
+        "Expert web / Développeur Java/JEE"
+      ],
+      "keywords": [
+        "Tomcat",
+        "JaxWS / JaxRS",
+        "Maven",
+        "JMeter",
+        "CentOS"
+      ]
+    },
+    {
+      "startDate": "2014",
+      "endDate": "2015",
+      "name": "BCEAO, GPMM, GIE AGORA",
+      "summary": "Expertise JEE\nÉtude de choix de version de JBoss / Wildfly\nAudit technique et optimisation des performances d'une installation Wildfly\nFormation Tomcat avancée\nÉtude comparative OpenJDK / Oracle JDK 6 7 8",
+      "roles": [
+        "Expert Java",
+        "Jboss",
+        "Tomcat"
+      ],
+      "keywords": [
+        "Wildfly 8 et 9",
+        "Tomcat 6 et 7",
+        "Open JDK 6 7 et 8"
+      ]
+    },
+    {
+      "startDate": "2016",
+      "endDate": "2016",
+      "name": "CD31, DGAC, SIPF",
+      "summary": "Formations PHP / Symfony, PostgreSQL, Jboss 7, Java 8\nJboss 7\nSymfony 3\nPhp 5\nPostgreSQL 9",
+      "roles": [
+        "Formateur"
+      ],
+      "keywords": [
+        "SI Airbus",
+        "Moteur de recherche Vivisimo Velocity",
+        "XML",
+        "XSL",
+        "JAVA",
+        ".NET",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "IIS"
+      ]
+    },
+    {
+      "startDate": "2016",
+      "endDate": "2016",
+      "name": "Bordeaux Métropole",
+      "summary": "Intégration progiciel Alfresco\nPrésentation du produit et ateliers métier\nDéveloppement de types de données spécifiques au client\nDéveloppement script d’import via API Alfresco",
+      "roles": [
+        "Développeur Alfresco"
+      ],
+      "keywords": [
+        "Alfresco 5.0",
+        "Java"
+      ]
+    },
+    {
+      "startDate": "2016",
+      "endDate": "2016",
+      "name": "CD31, DGAC, SIPF",
+      "summary": "Formations PHP / Symfony, PostgreSQL, Jboss 7, Java 8\nJBoss 7\nSymfony 3\nPhp 5\nPostgreSQL 9",
+      "roles": [
+        "Formateur"
+      ],
+      "keywords": [
+        "SI Airbus",
+        "Moteur de recherche Vivisimo Velocity",
+        "XML",
+        "XSL",
+        "JAVA",
+        ".NET",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "IIS"
+      ]
+    },
+    {
+      "startDate": "2017",
+      "endDate": "2017",
+      "name": "Confidentiel",
+      "summary": "Refonte logiciel frontend en Angular\nRefonte de la partie frontend en Angular\nRéférent technique et encadrant",
+      "roles": [
+        "Ingénieur d’études et développements"
+      ],
+      "keywords": [
+        "Angular 4",
+        "yarn",
+        "Vim"
+      ]
+    },
+    {
+      "startDate": "2017",
+      "endDate": "2017",
+      "name": "Météofrance",
+      "summary": "Développement logiciel Protea\nExtension d’une application interne Protea pour le transcodage de nouveaux messages   météo (SIGMET / AIRMET)\nTests unitaires et fonctionnels poussés à l’aide de Junit, xmlunit : aucun test avant la prestation (donc appropriation de l’existant et amélioration de la qualité)",
+      "roles": [
+        "Ingénieur d’études et développements"
+      ],
+      "keywords": [
+        "Junit",
+        "Eclipse",
+        "Java 8",
+        "Sonarqube"
+      ]
+    },
+    {
+      "startDate": "2018",
+      "endDate": "2018",
+      "name": "LA BANQUE POSTALE",
+      "summary": "Expertise Angular / Développements framework\nEtudes techniques et stratégiques sur l’utilisation d’Angular et son cycle de vie\nSupport et réalisations techniques / contributions sur les frameworks internes LBP\nRéférent technique et encadrant",
+      "roles": [
+        "Architecte logiciel / Ingénieur études et développements"
+      ],
+      "keywords": [
+        "Angular 5"
+      ]
+    },
+    {
+      "startDate": "2018 ",
+      "endDate": " 2019",
+      "name": "Météofrance",
+      "summary": "Refonte logiciel GMAO\nRefonte d’une application de requêtes sur un outil de GMAO Virga 3\nRéalisation de l’architecture logicielle et du moteur de requêtes\nDéveloppement partie backend PHP\nContributions sur le frontend Angular développé principalement par un autre collègue\nRéférent technique et encadrant",
+      "roles": [
+        "Architecte logiciel / Ingénieur études et développements"
+      ],
+      "keywords": [
+        "PHP 7.1",
+        "Zend Framework 3",
+        "Angular 6",
+        "vim"
+      ]
+    },
+    {
+      "startDate": "2019",
+      "endDate": "2019",
+      "name": "EDF",
+      "summary": "Mise en conformité légale application d’identités\nAudit de l’application\nCoordination des mesures techniques effectuées sur le code source",
+      "roles": [
+        "Responsable technique"
+      ],
+      "keywords": [
+        "java 7",
+        "docker",
+        "vagrant"
+      ]
+    },
+    {
+      "startDate": "2019",
+      "endDate": "2019",
+      "name": "Caisse Nationale d’Assurances Maladie",
+      "summary": "Veille technologique sur outils d’APM\nVeille standard QSOS\nPOC sur environnements CNAM",
+      "roles": [
+        "Expertise produits"
+      ],
+      "keywords": [
+        "apm",
+        "dashboard",
+        "timeseries"
+      ]
+    },
+    {
+      "startDate": "2019",
+      "endDate": "2019",
+      "name": "DGFIP",
+      "summary": "Migration Hibernate vers JPA\nEtude théorique\nMigration concrète d’une application existante\nTests de performances pour mesurer les différences",
+      "roles": [
+        "Expertise Java"
+      ],
+      "keywords": [
+        "Java",
+        "Hibernate/JPA"
+      ]
+    },
+    {
+      "startDate": "2019",
+      "endDate": "2019",
+      "name": "Airbus",
+      "summary": "Airbus Export Control\nOutil d’aide à la décision en Python 3\nAnalyse code source pour déterminer présence de cryptographie",
+      "roles": [
+        "Expert technique"
+      ],
+      "keywords": [
+        "python"
+      ]
+    },
+    {
+      "startDate": "Fin 2019 ",
+      "endDate": " début 2020",
+      "name": "EDF",
+      "summary": "TOSIAM\nActions légales sur code source (mesures conservatoires) pour supprimer parties propriétaires",
+      "roles": [
+        "Responsable technique"
+      ],
+      "keywords": [
+        "Java",
+        "LDAP",
+        "nodejs",
+        "python",
+        "VM",
+        "docker"
+      ]
+    },
+    {
+      "startDate": "2020",
+      "endDate": "2020",
+      "name": "Agence de l’Eau Artois Picardie",
+      "summary": "Sycloe\nRefonte module d’import de données au format XML (norme SANDRE)",
+      "roles": [
+        "Responsable technique et développeur"
+      ],
+      "keywords": [
+        "Java (Spring boot",
+        "Jaxb)",
+        "XML",
+        "XSLT"
+      ]
+    },
+    {
+      "startDate": "2021 ",
+      "endDate": " 2022",
+      "name": "DGFIP",
+      "summary": "Migration MoDR (Solr)\nEtude théorique et pratique\nEvaluation de l’effort de migration\nMigration applications DGFiP et Solr/Nutch",
+      "roles": [
+        "Expertise Java et produit Solr"
+      ],
+      "keywords": [
+        "Solr",
+        "docker",
+        "centos",
+        "java",
+        "bash"
+      ]
+    },
+    {
+      "startDate": "2021",
+      "endDate": "2021",
+      "name": "Parcoursup",
+      "summary": "Etude faisabilité et assistance technique sur Sonarqube\nEtude faisabilité technique de besoins spécifiques Sonarqube\nDéveloppement de POC de plugins\nTransfert de compétences",
+      "roles": [
+        "Expertise Sonarqube"
+      ],
+      "keywords": [
+        "Sonarqube",
+        "Java"
+      ]
+    },
+    {
+      "startDate": "2023",
+      "endDate": "2024",
+      "name": "ANAH, CIG",
+      "summary": "Maintenance architecture identités\nEvolution/maintenance architecture, intégration DM LinID",
+      "roles": [
+        "Architecte IAM"
+      ],
+      "keywords": [
+        "centos",
+        "debian",
+        "ansible",
+        "LemonLDAP",
+        "openLDAP"
+      ]
+    }
+  ],
+  "specific": {
+    "trigramme": "AVI",
+    "lng_oba": "LNG",
+    "cercle": "expert",
+    "formation": "isced6",
+    "experience_years": "20",
+    "expertiseDomain": [
+      "architecture",
+      "development",
+      "expertise"
+    ]
+  },
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  },
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "certificates": [
+    {
+      "name": "ANGLAIS - TOEIC B2.3 - 855/990",
+      "issuer": "YESNYOU Iberia",
+      "startDate": "2021-06-30"
+    }
+  ]
+}

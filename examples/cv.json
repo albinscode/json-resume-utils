@@ -1,0 +1,312 @@
+{
+    "basics": {
+        "name": "Albin Vigier",
+        "label": "Architecte et expert web",
+        "image": "",
+        "email": "avigier@linagora.com",
+        "phone": "",
+        "url": "",
+        "summary": "AVI est un passionné d'informatique depuis 18 ans. Il a débuté sa carrière dans le domaine de l'édition logiciels de gestion dans le secteur des télécoms. Il a ensuite suivi un parcours de développeur web et d'intégrateur de progiciels (portails, moteurs de recherche, etc...) pour des clients tels qu'Airbus ou Alcatel.\n A LINAGORA, AVI effectue des missions très différentes et motivantes telles que la formation, l'expertise Java (serveurs applicatifs notamment), le développement web (java, php, angular) ou l'intégration de progiciels. Ces missions au contact direct avec le client l'amènent souvent à se déplacer au national ou à l'international lui procurant ainsi une expérience unique.",
+        "location": {
+            "countryCode": "FR",
+            "address": ""
+        },
+        "profiles": [
+            {
+                "username": "albin-vigier-b2009763"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Linagora",
+            "position": "Architecte et expert web (Java \/ Php \/ Angular \/ VueJs)",
+            "startDate": "2014-10-31",
+            "endDate": "",
+            "highlights": [],
+            "summary": "A Linagora, j'ai la chance de pouvoir cumuler diff\u00e9rentes missions et postes.\n\nA la fois d\u00e9veloppeur exp\u00e9riment\u00e9 et architecte sur socle Java (Tomcat), Php (Symfony\/Laravel) et Angular ou VueJs.\n\nJe suis principalement sur des projets de refonte de projets web impliquant le re-d\u00e9veloppement de l'IHM (en Single Page Application) et un re-design du backend pour desservir une API REST.\n\nJ'ai \u00e9galement une activit\u00e9 d'expertise et d'\u00e9tude sur des migrations techniques ou encore sur l'am\u00e9lioration des process de d\u00e9veloppements via l'utilisation d'outils open source de CI\/CD.",
+            "url": "https:\/\/www.linkedin.com\/company\/linagora\/"
+        },
+        {
+            "name": "Sopra",
+            "position": "Ing\u00e9nieur d'\u00e9tude et d\u00e9veloppement Java\/Tomcat",
+            "startDate": "2013-10-31",
+            "endDate": "2014-09-30",
+            "highlights": [],
+            "summary": "TMA sur produit Ficheyes",
+            "url": "https:\/\/www.linkedin.com\/company\/soprasteria\/"
+        },
+        {
+            "name": "Sopra",
+            "position": "Responsable technique Search",
+            "startDate": "2010-06-30",
+            "endDate": "2013-09-30",
+            "highlights": [],
+            "url": "https:\/\/www.linkedin.com\/company\/soprasteria\/",
+            "location": "Colomiers"
+        },
+        {
+            "name": "Sopra Group",
+            "position": "Ing\u00e9nieur d'\u00e9tude et d\u00e9veloppement BSS\/OSS",
+            "startDate": "2008-10-31",
+            "endDate": "2010-06-30",
+            "highlights": [],
+            "summary": "Int\u00e9gration du progiciel Axioss pour le provisioning des \u00e9quipements Telecom.",
+            "url": "https:\/\/www.linkedin.com\/company\/soprasteria\/",
+            "location": "Colomiers"
+        },
+        {
+            "name": "Sopra Group",
+            "position": "Ing\u00e9nieur d'\u00e9tude et d\u00e9veloppement Java\/Tomcat",
+            "startDate": "2007-08-31",
+            "endDate": "2008-09-30",
+            "highlights": [],
+            "summary": "TMA sur produit Ficheyes",
+            "url": "https:\/\/www.linkedin.com\/company\/soprasteria\/",
+            "location": "colomiers"
+        },
+        {
+            "name": "interface si",
+            "position": "Analyste programmeur Java\/Tomcat\/C\/C++\/Corba",
+            "startDate": "2005-09-30",
+            "endDate": "2007-07-31",
+            "highlights": [],
+            "summary": "TMA sur applications de gestion Saraa\/Rise.",
+            "url": "",
+            "location": "Toulouse"
+        },
+        {
+            "name": "Projet personnel",
+            "position": "Porteur de projet pour la cr\u00e9ation d\u2019une entreprise de d\u00e9veloppements web",
+            "startDate": "2005-03-31",
+            "endDate": "2005-07-31",
+            "highlights": [],
+            "url": "",
+            "location": "Montpellier"
+        },
+        {
+            "name": "GT2F",
+            "position": "Analyste programmeur Java\/Delphi",
+            "startDate": "2002-04-30",
+            "endDate": "2005-02-28",
+            "highlights": [],
+            "url": "https:\/\/www.linkedin.com\/company\/gt2f\/",
+            "location": "Nimes"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Conservatoire National des Arts et M\u00e9tiers",
+            "area": "Ing\u00e9nierie et int\u00e9gration informatique : syst\u00e8mes de conduite",
+            "studyType": "Dipl\u00f4me d'Etudes Sup\u00e9rieuresTechniques",
+            "startDate": "2002-12-31",
+            "endDate": "2003-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "IUT de Montpellier-S\u00e8te",
+            "area": "Conception et ing\u00e9nierie informatique",
+            "studyType": "Dipl\u00f4me Universitaire",
+            "startDate": "2001-12-31",
+            "endDate": "2002-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "IUT de Montpellier-S\u00e8te",
+            "area": "Informatique",
+            "studyType": "Dipl\u00f4me universitaire de technologie (DUT)",
+            "startDate": "1999-12-31",
+            "endDate": "2001-12-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Java",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "PHP",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Angular",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Tomcat",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "LemonLDAP",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Node.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "docker",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Nutch",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Solr",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Symfony",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Zend",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Git",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Framework Spring",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Maven",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "CSS",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "HTML5",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "JavaScript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "MySQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "D\u00e9veloppement de logiciel",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Sopra Steria",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Vuejs",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Postgresql",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Keycloak",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Laravel",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Java Enterprise Edition",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "fr",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "en",
+            "fluency": "technical"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "Migration MoDR (Solr)",
+            "description": "",
+            "highlights": [],
+            "keywords": [
+                "Solr",
+                "docker"
+            ],
+            "startDate": "2021-02",
+            "endDate": "2022-01",
+            "url": "",
+            "roles": [
+                "Expertise Java et produit Solr"
+            ],
+            "entity": "",
+            "type": "",
+            "summary": "Etude th\u00e9orique et pratique\nEvaluation de l\u2019effort de migration\nMigration applications DGFiP et Solr\/Nutch"
+        }
+    ],
+    "specific": {
+        "trigramme": "AVI",
+        "lng_oba": "LNG",
+        "cercle": "expert",
+        "formation": "isced6",
+        "experience_years": "20",
+        "expertiseDomain": [
+            "architecture",
+            "development",
+            "expertise"
+        ]
+    },
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https:\/\/github.com\/jsonresume\/resume-schema\/blob\/v1.0.0\/schema.json"
+    },
+    "$schema": "https:\/\/raw.githubusercontent.com\/jsonresume\/resume-schema\/v1.0.0\/schema.json",
+    "certificates": [
+        {
+            "name": "ANGLAIS - TOEIC B2.3 - 855\/990",
+            "issuer": "YESNYOU Iberia",
+            "startDate": "2021-06-30"
+        }
+    ]
+}
