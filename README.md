@@ -13,6 +13,13 @@ Le fichier est analysé et va ajouter toutes les expériences à CV au format js
 3. on récupère ou génére son fichier json-resume et on le place dans la racine du présent projet
 4. on lance la commande qui va extraire les données du csv et les ajouter au CV json-resume
 
+Quand on a un fichier ods, on peut très bien générer le fichier CSV en :
+1. ouvrant le fichier ods
+2. copiant les trois colonnes de expérience 1 à expérience n dans un nouveau fichier csv
+3. sauvant le fichier au format csv
+4. réouvrant le fichier csv et supprimant la deuxième colonne
+5. sauvant le csv
+
 Standard json-resume : https://jsonresume.org/
 
 ## Format du fichier d'entrée
